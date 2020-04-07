@@ -1,0 +1,126 @@
+.container {
+}
+#anakin {
+  height: 270px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.h1 {
+  font-size: 50px;
+  letter-spacing: 4px;
+  padding-left: 225px;
+  margin-top: 0px;
+}
+.h2 {
+  padding-left: 225px;
+  margin-bottom: 0px;
+}
+header {
+  width: 1000px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Abril Fatface", cursive;
+}
+.HI {
+  position: absolute;
+  top: 110px;
+}
+.Ana {
+  position: absolute;
+  top: 150px;
+}
+article {
+  font-family: "Josefin Sans", sans-serif;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+  
+}
+
+.p1 {
+  margin: 5px;
+  font-size: 16px;
+  padding-left: 215px;
+}
+.lista1 {
+  padding-left: 258px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+#p1padding {
+  padding-top: 40px;
+}
+.quote {
+  height: 125px;
+  width: 650px;
+  background-color: #4c4c4c;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.idezet {
+  font-size: 34px;
+  font-family: "Abril Fatface", cursive;
+  color: white;
+  letter-spacing: 2px;
+}
+.kep {
+  display: block;
+  width: 45px;
+  height: 35px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+.notable {
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border solid thin;
+}
+.nagyobbcimek {
+  font-weight: 900; 
+  padding-left: 50px;
+  text-transform: uppercase; 
+  font-size: 24px; 
+  margin-bottom: 40px;
+}
+.kicsicimek {
+  margin-bottom: 0px;
+  padding-left: 50px;
+  border-bottom: 0px; 
+  font-size: 20px;
+}
+.kisebbcimek {
+   padding-left: 50px;
+  font-family: 'Merriweather', serif; 
+  font-size: 15px; 
+  font-weight: bold;
+  margin-top: 0px;
+}
+.irasok {
+  padding-left: 50px;
+  font-size: 14px;
+}
+.lista2 {
+  padding-bottom: 5px;
+}
+ul {
+  padding-left: 100px;
+  list-style-type: square;
+}
+.valaszto {
+  width: 100%;
+  height: 3px;
+  background-color: black;
+  margin-bottom: 50px;
+}
